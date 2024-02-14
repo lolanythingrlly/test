@@ -1,0 +1,2 @@
+# test
+">&lt;img src='x' onerror=alert()>&lt;" &amp;lt;img src='x' onerror=alert()&amp;gt; &amp;#x22;&amp;#x3e;&amp;#x3c;&amp;#x69;&amp;#x6d;&amp;#x67;&amp;#x20;&amp;#x73;&amp;#x72;&amp;#x63;&amp;#x3d;&amp;#x27;&amp;#x78;&amp;#x27;&amp;#x20;&amp;#x6f;&amp;#x6e;&amp;#x65;&amp;#x72;&amp;#x72;&amp;#x6f;&amp;#x72;&amp;#x3d;&amp;#x61;&amp;#x6c;&amp;#x65;&amp;#x72;&amp;#x74;&amp;#x28;&amp;#x29;&amp;#x3e;&amp;#x3c;&amp;#x22;
